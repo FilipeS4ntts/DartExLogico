@@ -22,7 +22,7 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 
 <h2 id=author>:grin: Autor</h2>
 
-Desenvolvido por: <a href="https://www.linkedin.com/in/gabrielaschaper/" target="_blank">GabiScha</a>
+Desenvolvido por: <a href="www.linkedin.com/in/filipesantanawrk" target="_blank">Filipe</a>
 
 
 

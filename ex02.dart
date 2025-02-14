@@ -5,3 +5,10 @@ parcelado em 3 vezes deve ser dado um acréscimo de 10% no total a ser pago. Se 
 parcelamento for em 5 vezes, o acréscimo será de 20%. Lembrando que são apenas as 2
 opções para parcelamento.
 */
+
+
+   int produto = 1250;
+    print('preço a vista ${produto}');
+   
+  
+ 

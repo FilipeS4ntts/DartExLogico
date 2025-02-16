@@ -1,3 +1,5 @@
+
+void main() {
 /*
 a.Faça um programa que recebe o salário de um colaborador e o reajuste segundo o
 seguinte critério, baseado no salário atual;(Entrada será fixa) por enquanto
@@ -9,7 +11,6 @@ Critérios:
   e. Salários de R$ 2000,00 em diante: aumento de 5%
   --Após o aumento ser realizado; informe na tela--
 */
-  
   
    int percentual = 0;
    int salario = 2500;
@@ -33,3 +34,5 @@ Critérios:
     percentual = 5;
     print('Salários de 2000,00 em diante aumento de 5%: ${(salario * percentual) / 100}');
   }
+
+}

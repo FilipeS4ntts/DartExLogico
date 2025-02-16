@@ -1,3 +1,5 @@
+void main() {
+
 /*
 A partir do preço à vista de um determinado produto, calcule o preço total a pagar e o
 valor da prestação mensal, referentes ao pagamento parcelado. Se o pagamento for
@@ -30,3 +32,6 @@ opções para parcelamento.
   {
     print("impossivel parcelar, as opções sendo elas disponíveis de apenas 3 e 5 vezes");
   }
+
+  
+}

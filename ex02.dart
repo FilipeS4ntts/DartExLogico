@@ -5,10 +5,28 @@ parcelado em 3 vezes deve ser dado um acréscimo de 10% no total a ser pago. Se 
 parcelamento for em 5 vezes, o acréscimo será de 20%. Lembrando que são apenas as 2
 opções para parcelamento.
 */
-
-
-   int produto = 1250;
-    print('preço a vista ${produto}');
-   
   
- 
+  int produto = 1250;
+  int parcela = 0;
+  
+  
+  if(parcela == 3){
+    parcela = 3;
+    print('preço a parcela de 3 vezes ${(produto + (parcela / 100) * 10)}');
+
+  }
+    
+  
+  else if(parcela == 3){
+  print('preço a parcela de 5 vezes ${(produto + (parcela / 100) * 10)}');
+  }
+
+  else if (parcela == 5)
+  {
+    print(produto + (parcela / 100) * 20);
+  }
+  
+  else
+  {
+    print("impossivel parcelar, as opções sendo elas disponíveis de apenas 3 e 5 vezes");
+  }

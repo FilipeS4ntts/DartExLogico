@@ -31,7 +31,7 @@ aprovação é igual ou superior a 7.
   
   
   
-  print("dada as informações pedidas, o relatório do alumo: $nome / $media / $estado");
+  print("dada as informações pedidas, o relatório do aluno: $nome / $media / $estado");
   
   
   

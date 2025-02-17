@@ -7,9 +7,9 @@
 Projeto em produção..
 
 
-<h2 id=installation>:clipboard: Instalação</h2>
+<h2 id=installation>🔗Modo de Uso</h2>
 
-1. Apenas abra o DartPad online.
+1. IDE-Apenas abra o DartPad online.
 
 
 <h2 id=technology>:toolbox: Tecnologias</h2>

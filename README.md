@@ -23,9 +23,3 @@ Ferramentas utilizadas no desenvolvimento do projeto:
 Desenvolvido por: <a href="www.linkedin.com/in/filipesantanawrk" target="_blank">FilipeS4ntts</a>
 
 
-
-<h2 id=author> Inspiração</h2>
-
-Inspiração: https://github.com/danhpaiva/csharp-unit-test-programada-mente/blob/main/README.md
-
-
